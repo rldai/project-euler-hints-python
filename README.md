@@ -13,7 +13,7 @@ discovering the solution will be "spoiler-tagged" similarly to discord or reddit
 </details>
 <details> 
   <summary>Final Solution:</summary>
-   Check the code for this document.
+   Edit this file and check the code.
 </details>
 
 
