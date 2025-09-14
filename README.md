@@ -9,10 +9,10 @@ discovering the solution will be "spoiler-tagged" similarly to discord or reddit
 </details>
 <details> 
   <summary>I'm still confused. I need another hint! </summary>
-   Use the < details > tag.
+   Use the < details > tag and the < summary > tag.
 </details>
 <details> 
-  <summary>Just give me the answer. </summary>
+  <summary>Final Solution:</summary>
    Check the code for this document.
 </details>
 
