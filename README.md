@@ -1,5 +1,5 @@
 # project-euler-hints-python
-My walkthrough style solutions for the first 100 ish problems in ProjectEuler.net.
+My walkthrough style solutions for the first 100 ish problems in ProjectEuler.net. Everything was done in Python 3.13.
 
 I haven't found a non-spoilery way to get hints on Project Euler problems so I decided to make one! The steps to
 discovering the solution will be "spoiler-tagged" similarly to discord or reddit. It will be in this format:
@@ -32,7 +32,7 @@ example:
 the wishes of the people who run PE. They clearly care about spoilers, so I wanted to try to give a resource with as little
 spoilers as possible. The author's note is a way for me to keep that original purpose.)
 
-Some of these programs import math, but that's it.
+Some of these programs import the math module, but that's it. 
 
 In the future, I plan to add all 100 solutions. I've already finished a lot (but not all) 100 solutions, but I still need 
 to rework them, add comments, and put them in the walkthrough format. I might even add solutions past 100 if I get to them.
