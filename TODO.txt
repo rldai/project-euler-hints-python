@@ -1,0 +1,12 @@
+High priority:
+  First 100 problems in rough numerical order, skipping ones I didn't solve yet.
+  Take my solution and compare with Project Euler overview, if it exists
+  If not, find most kudosed solutions in the forum and compare with mine
+  Have either one "brute force solution" or one "nice solution" 
+Medium priority:
+  Add the other solution (if i started with BF, add the nice one, if i started with the nice one, add the BF one)
+Low priority:
+  Add alternate solutions from forums, websites, other github repos
+  Add other languages
+  
+  
