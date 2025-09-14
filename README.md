@@ -18,7 +18,7 @@ discovering the solution will be "spoiler-tagged" similarly to discord or reddit
 
 
 The website asks not to spoil past the first 100 problems, so I will not be doing so (unlike some other people). Also, I 
-will not be postiing the numerical answers. You have to at least look at the code instead of just copy and pasting the 
+will not be posting the numerical answers. You have to at least look at the code instead of just copy and pasting the 
 answer. Please use this if you ever need a nudge in the right direction on a Project Euler solution!
 
 All solutions are given an earnest attempt by me, although I admit I had to look up a few solutions (not answers, but 
