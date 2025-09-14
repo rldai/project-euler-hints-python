@@ -27,6 +27,7 @@ after solving. This is to ensure I upload the cleanest and most efficient soluti
 uploading this after about a year of working on ProjectEuler.net problems on and off. This means a lot of my progress, 
 trial and error, etc. has been lost. Anything about my personal progress will but put in an informal "author's note." For
 example:
+
 (AN: Originally this project was intended to be a diary of my PE progress, but I realized I cared a lot about honoring
 the wishes of the people who run PE. They clearly care about spoilers, so I wanted to try to give a resource with as little
 spoilers as possible. The author's note is a way for me to keep that original purpose.)
