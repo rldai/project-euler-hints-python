@@ -46,7 +46,7 @@ These are my author's notes. I may have interjections about my personal process 
 
 ## How to Run it
 
-Some of these programs import the math module, but that's it. Otherwise, simply copy + paste the code blocks into something that accepts Python code. Files are in md because they have to be spoiler tagged. Unfortunately, that means the code loses all the color-coding and nice markers from an IDE. Sorry.
+Some of these programs import the math module, but that's it. Otherwise, simply copy + paste the code blocks into something that accepts Python code. Files are in md because they have to be spoiler tagged. Unfortunately, that means the code loses all the color-coding that happens when you use .py. Sorry.
 
 ## The Future
 
