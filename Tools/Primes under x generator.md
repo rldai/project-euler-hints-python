@@ -146,7 +146,7 @@ primes = list(primes_set)</code><br><br>
     Runtime when upper limit is 1000000: 0.16 seconds <br>
     Runtime when upper limit is 10000000: 2 seconds <br><br>
     (AN: This might be extended for multiples of 5, but there are diminishing returns. It seems like excluding multiples of 3 makes the program runtime 3/2 = 1.5 times faster. Exclusding multples of 5 maybe make the program runtime 5/4 = 1.25 times faster, but at that point, the program is likely fast enough.) <br><br>
-    (AN: There are other ways to optomize the sieve, which can be found on <cite
+    (AN: There are other ways to optimize the sieve, which can be found on <cite
       ><a href="https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes"
         >Wikipedia</a
       ></cite
