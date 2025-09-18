@@ -81,8 +81,9 @@ primes.insert(0, 2)</code><br><br>
     <summary>
         I need more elaboration how to do that. 
     </summary>
-        First, make a list of the composite numbers. You remove all multiples of 2 from the composite numbers. Then, you go to the next highest number that is not eliminated. That's 3. Its multiples are eliminated. The next highest number is 4, but that was eliminated when all the multiples of 2 were eliminated. So, the next number is 5. This continues for all numbers less than the upper limit.<br><br>
-    Consider modifying the sieve with a time-saving measure that was included in the brute force solution.
+        First, make a list(or, preferably, a set) of the composite numbers. You remove all multiples of 2 from the composite numbers. Then, you go to the next highest number that is not eliminated. That's 3. Its multiples are eliminated. The next highest number is 4, but that was eliminated when all the multiples of 2 were eliminated. So, the next number is 5. This continues for all numbers less than the upper limit.<br><br>
+    Consider modifying the sieve with a time-saving measure that was included in the brute force solution.<br><br>
+    (AN: You may wonder what the difference is between using a set and using a list. Since sets only have unique elements, you can hash them with a mathematical function. This gives them a unique id. When a program checks if something is in a set, it calculates the hash and can find the element very quickly. The time is O(1). In contrast, to find something in a list, the computer has to search through every element in order to find the element. This takes O(n) time. Since the list is already sorted least to greatest, one could use a binary search or a more complicated function to narrow down where in the list to search. This is something I am still looking into so I am not sure if it is faster or slower than using a set and sorting the set at the end.)
 </details>
 
 <details>
@@ -102,7 +103,7 @@ while factor <= square_root_of_upper_limit:
         primes_set.discard(factor * i)
     factor += 2
 #
-primes = list(primes_set)</code><br><br>
+primes = sorted(list(primes_set))</code><br><br>
     Runtime when upper limit is 1000: 0.0001 seconds <br>
     Runtime when upper limit is 10000: 0.002 seconds <br>
     Runtime when upper limit is 100000: 0.02 seconds <br>
@@ -139,7 +140,7 @@ while factor <= square_root_of_upper_limit:
     if factor % 3 == 0:
         factor = factor + 2
 #
-primes = list(primes_set)</code><br><br>
+primes = sorted(list(primes_set))</code><br><br>
         Runtime when upper limit is 1000: 0.00015 seconds <br>
     Runtime when upper limit is 10000: 0.0015 seconds <br>
     Runtime when upper limit is 100000: 0.015 seconds <br>
