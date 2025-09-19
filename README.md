@@ -1,4 +1,4 @@
-# project-euler-hints-python
+# project-euler-walkthroughs-python
 My walkthrough style solutions for the first 100 ish problems in ProjectEuler.net. Everything was done in Python 3.13.
 
 ## Purpose
