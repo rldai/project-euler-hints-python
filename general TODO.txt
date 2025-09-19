@@ -8,6 +8,7 @@ Medium priority:
   Add the other solution (if i started with BF, add the nice one, if i started with the nice one, add the BF one)
   Add runtimes
 Low priority:
+  Fix the generally condescending tone.
   Add alternate solutions from forums, websites, other github repos
   Add other languages
   
