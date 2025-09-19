@@ -34,7 +34,7 @@ I will write explanations as if someone were reading them in numerical order. I 
 
 ### Crediting
 
-I will do my best to credit every idea in each walkthrough without making things cluttered. The first 10 problems have "overviews" on Project Euler, which unlock after entering the numerical answer in the website. They are also done in a walkthrough format, but they do not have spoiler-tags. They deserve massive credit for inspiring the walkthough format as well as the solutions. In addition to myself and Project Euler, I will get ideas from the Project Euler forum, blogs, other GitHub repos, etc. If sources other than myself are used, they will be credited. I did not necessarily copy and paste from them either. I will consolidate all solutions into the same format, using the same variable names, etc. to make it easier to follow for a reader.
+I will do my best to credit every idea in each walkthrough without making things cluttered. Some of the problems have "overviews" on Project Euler, which unlock after entering the numerical answer in the website. They are also done in a walkthrough format, but they do not have spoiler-tags. They deserve massive credit for inspiring the walkthough format as well as the solutions. In addition to myself and Project Euler, I will get ideas from the Project Euler forum, blogs, other GitHub repos, etc. If sources other than myself are used, they will be credited. I did not necessarily copy and paste from them either. I will consolidate all solutions into the same format, using the same variable names, etc. to make it easier to follow for a reader.
 
 ### Runtime
 
