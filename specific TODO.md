@@ -6,6 +6,4 @@ Check for divisibility by 3 in Problems 3 and 7.
 
 Finish problem 5.
 
-Nice solution to problem 4.
-
 Add builtin solution to primes under x generator.
