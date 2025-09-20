@@ -9,7 +9,7 @@ How do you write a non-spoilery hint system for Project Euler?
    Try html.
 </details>
 <details> 
-  <summary>I'm still confused. I need another hint! </summary>
+  <summary>I need another hint! </summary>
    Use the < details > tag and the < summary > tag.
 </details>
 <details> 
@@ -34,7 +34,7 @@ I will write explanations as if someone were reading them in numerical order. I 
 
 ### Crediting
 
-I will do my best to credit every idea in each walkthrough without making things cluttered. Some of the problems have "overviews" on Project Euler, which unlock after entering the numerical answer in the website. They are also done in a walkthrough format, but they do not have spoiler-tags. They deserve massive credit for inspiring the walkthough format as well as the solutions. In addition to myself and Project Euler, I will get ideas from the Project Euler forum, blogs, other GitHub repos, etc. If sources other than myself are used, they will be credited. I did not necessarily copy and paste from them either. I will consolidate all solutions into the same format, using the same variable names, etc. to make it easier to follow for a reader.
+I will do my best to credit every idea in each walkthrough without making things cluttered. Some of the problems have "overviews" on Project Euler, which unlock after entering the numerical answer in the website. They are also done in a walkthrough format, but they do not have spoiler-tags. They deserve massive credit for inspiring the walkthough format as well as the solutions. In addition to myself and Project Euler overviews, I will get ideas from the Project Euler forum, blogs, other GitHub repos, etc. If sources other than myself are used, they will be credited. I did not copy and paste from them. I consolidate all solutions into the same format, using the same variable names, etc. to make it easier to follow for a reader. 
 
 ### Runtime
 
@@ -46,11 +46,11 @@ These are my author's notes. I may have interjections about my personal process 
 
 ## How to Run it
 
-Some of these programs import the math module, but that's it. Otherwise, simply copy + paste the code blocks into something that accepts Python code. Files are in md because they have to be spoiler tagged. Unfortunately, that means the code loses all the color-coding that happens when you use .py. Sorry.
+Some of these programs import the math module, but that's it. Since math is built in, there should be nothing to download. Simply copy + paste the code blocks into something that accepts Python code. Files are in md because they have to be spoiler tagged. Unfortunately, that means the code loses all the color-coding that happens when you use .py. Sorry.
 
 ## The Future
 
-In the future, I plan to add all 100 solutions. I've already finished a lot (but not all) 100 solutions, but I still need to rework them, add comments, and put them in the walkthrough format.
+In the future, I plan to add all 100 solutions. I've already finished a lot (but not all) of the 100 solutions, but I still need to rework them, add comments, and put them in the walkthrough format. Check the general TODO file and the specific TODO file for more information. 
 
 ## Need to Contact Me?
 
