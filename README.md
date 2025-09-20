@@ -1,8 +1,8 @@
 # project-euler-walkthroughs-python
-My walkthrough style solutions for the first 100 ish problems in ProjectEuler.net. Everything was done in Python 3.13.
+My walkthrough style solutions for the first 100 ish problems in ProjectEuler.net. Everything was done in Python 3.13. I haven't found a non-spoilery way to get hints on Project Euler problems so I decided to make one! The steps to discovering the solution will be "spoiler-tagged" similarly to Discord or Reddit. Please use this if you ever need a nudge in the right direction on a Project Euler solution!
 
-## Purpose
-PROBLEM: <br>
+## Format
+### PROBLEM: <br>
 How do you write a non-spoilery hint system for Project Euler?
 <details> 
   <summary>How would you make spoiler tags? </summary>
@@ -21,7 +21,7 @@ How do you write a non-spoilery hint system for Project Euler?
    Edit this file and check the code.<br>
    Runtime: n/a<br>
    (AN: Thanks for reading this!)
-</details>I haven't found a non-spoilery way to get hints on Project Euler problems so I decided to make one! The steps to discovering the solution will be "spoiler-tagged" similarly to Discord or Reddit. Please use this if you ever need a nudge in the right direction on a Project Euler solution!
+</details>
 
 ## Elaboration on the Format
 ### The Problems
